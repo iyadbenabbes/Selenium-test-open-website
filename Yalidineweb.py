@@ -28,7 +28,7 @@ def login(email_, password_):
     time.sleep(4)
 
 
-login('benabbes.iyad@gmail.com', 'espn9090')
+login('Your_Email', 'Your_password')
 
 
 def sales_section():
